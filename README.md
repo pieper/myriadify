@@ -1,1 +1,1 @@
-# myriadify.github.io
+# pieper.github.io/myriadify
